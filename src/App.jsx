@@ -1,7 +1,6 @@
 import { Component, useState } from 'react'
-import Hello from "./Component/Hello"
-
 import './App.css'
+import Hello from './components/hello'
 
 function App() {
 
